@@ -1,0 +1,46 @@
+body{
+    background-color: #CAD2C5;
+}
+.box{
+    padding: 100px;
+}
+.col-md-3{
+    height: 450px;
+    background-color: #353535;
+    border-radius: 15px;
+    }
+
+.col-md-9{
+    height: 450px;
+    background-color: #CAD2C5;
+    }
+.col-md-4{
+    background-color: #CAD2C5;
+    
+   }
+.col-md-12{
+        height: 40px;
+        background-color: #353535;
+        border-radius: 10px;
+        color: white;
+        padding-left: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+.searchele{
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 100px;
+    background-color: #CAD2C5;
+}
+.thirdrow{
+    height:150px;
+    background-color: #CAD2C5;
+    padding:0px 35px 15px 35px;
+}
+.box-part{
+    background-color: #353535;
+    padding: 50px 30px;
+    margin:30px 30px;
+    border-radius: 15px;
+}
